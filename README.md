@@ -12,5 +12,5 @@ Bookmarklet to include jQuery to any website that doesn't already have the libra
 
 The bookmarklet is by [Karl Swedberg](https://twitter.com/kswedberg) as described in the post - [Better, Stronger, Safer jQuerify Bookmarklet](http://www.learningjquery.com/2009/04/better-stronger-safer-jquerify-bookmarklet) from his blog [LearningjQuery](http://www.learningjquery.com).
 
-### Quick Insstallation
-There is a link in the blog post mentioned above to quickly create the bookmarklet.
+### Quick Installation
+There is a link in the blog post mentioned above to create the bookmarklet.

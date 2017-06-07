@@ -5,7 +5,7 @@ Bookmarklet to include jQuery to any website that doesn't already have the libra
 
   - Access jQuery capabilities from console.
   - Updated for Safari to conform to its strict URL encoding.
-  - Last updated May, 2012
+  - Last updated 06-07-2017 by Nick Painter in order to add support for the latest version of jQuery
 
 ### Credits
 

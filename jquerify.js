@@ -41,7 +41,7 @@
     };
     head.appendChild(script);
   }
-  getScript('http://code.jquery.com/jquery.min.js',function() {
+  getScript('code.jquery.com/jquery-3.2.1.min.js',function() {
     if (typeof jQuery=='undefined') {
       msg='Sorry, but jQuery wasn\'t able to load';
     } else {
